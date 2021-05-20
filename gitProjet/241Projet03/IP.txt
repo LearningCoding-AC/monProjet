@@ -1,0 +1,10 @@
+Adresse Reseau : 200.200.200.0
+IP diffusion : 200.200.200.255
+Prefix : 24
+Wildcard : 0.0.0.255
+Binaire : 11001000.11001000.11001000.00000000
+Masque du réseau : 255.255.255.0
+IP du réseau : 200.200.200.0
+Nombre de machine : 254
+IP premier machine : 200.200.200.1
+IP dernier machine : 200.200.200.254
